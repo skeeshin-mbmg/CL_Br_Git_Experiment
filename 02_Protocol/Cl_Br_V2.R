@@ -1,3 +1,4 @@
+#I'm going to add this comment to see how it works with git in RStudio
 rm(list=ls())
 
 #load packages used in script
